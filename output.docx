@@ -13,4 +13,4 @@ class Account {
 }
 
 Output
-
+The balance is: 500.0
